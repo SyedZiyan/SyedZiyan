@@ -67,10 +67,13 @@ An AI-powered conversational application designed to provide intelligent respons
 
 I'm always interested in connecting with developers, AI enthusiasts, students, and professionals to collaborate on interesting projects.
 
-📧 **Email:** Add your email here
-💼 **LinkedIn:** Add your LinkedIn profile here
-🌐 **Portfolio:** Add your portfolio here
+📧 [Email](mailto:syedziyan9966@gmail.com)
 
+💼 [LinkedIn](https://www.linkedin.com/in/syed-ziyan-65577229b/)
+
+🌐 [Portfolio](https://syed-ziyan.base44.app/)
+
+🐙 [GitHub](https://github.com/SyedZiyan)
 ---
 
 ⭐ **Thanks for visiting my profile!**
