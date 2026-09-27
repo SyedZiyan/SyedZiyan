@@ -1,72 +1,78 @@
-# Hi, I'm Syed Ziyan 👋
+# 👋 Hi, I'm Syed Ziyan
 
-### B.Tech AI & ML Student | AI/ML Developer
+### 🎓 B.Tech Student | Artificial Intelligence & Machine Learning
 
-I'm a B.Tech student specializing in **Artificial Intelligence and Machine Learning**. I enjoy building practical projects using AI, machine learning, Python, and Java.
+I'm a passionate **AI/ML student** interested in building practical, intelligent solutions using modern technologies. I enjoy learning new technologies, developing projects, and exploring how AI can solve real-world problems.
 
-I'm currently focused on improving my development skills and building real-world AI applications.
+## 🚀 About Me
 
-## About Me
+* 🎓 Currently pursuing **B.Tech in Artificial Intelligence & Machine Learning**
+* 🤖 Interested in **Artificial Intelligence, Machine Learning & Generative AI**
+* 🌱 Currently learning **Deep Learning, NLP, LLMs & Full-Stack Development**
+* 💻 Building AI-powered projects and experimenting with new technologies
+* 🔍 Interested in **AI applications, recommendation systems & intelligent learning platforms**
+* 🤝 Looking to collaborate on **AI/ML and innovative software projects**
+* 📚 Always learning and improving my technical skills
 
-* 🎓 B.Tech — Artificial Intelligence & Machine Learning
-* 🤖 Interested in AI, Machine Learning and Generative AI
-* 💻 Working with Python, Java and SQL
-* 🧠 Exploring NLP and Recommendation Systems
-* 🚀 Building practical AI projects
-* 🌱 Always learning and improving
+## 🛠️ Skills & Technologies
 
-## Skills
+**Languages**
 
-**Languages:** Python, Java, SQL
+* Java
+* Python
+* SQL
+* HTML
+* CSS
+* JavaScript
 
-**AI/ML:** Machine Learning, Deep Learning, NLP, Generative AI
+**AI & Machine Learning**
 
-**Web:** HTML, CSS, JavaScript, REST APIs
-
-**Tools:** Git, GitHub, VS Code
-
-## Featured Projects
-
-### AI Learning & Competency Platform
-
-An AI-powered learning platform that identifies competency gaps and provides personalized learning recommendations.
-
-**Key features:** Personalized learning, competency analysis, AI-generated quizzes, learning material analysis and recommendation systems.
-
-**Tech:** Python, AI/ML, NLP, Generative AI
-
-### Personal AI Chat App
-
-An AI-powered conversational application that integrates modern AI APIs to provide interactive responses.
-
-**Tech:** Kotlin, Groq API, Generative AI
-
-### AI Recommendation System
-
-A recommendation system that generates personalized recommendations based on user preferences.
-
-**Tech:** Python, Machine Learning
-
-## Currently Learning
-
-* Advanced Machine Learning
+* Machine Learning
 * Deep Learning
-* Generative AI & LLMs
-* Java Development
-* Full-Stack Development
+* Natural Language Processing
+* Generative AI
+* Recommendation Systems
 
-## Experience & Certifications
+**Tools & Technologies**
 
-* IBM SkillsBuild — AI Automation & Intelligent Solutions Internship
-* AI/ML Project Development
-* Hackathon & Project Development
+* Git & GitHub
+* VS Code
+* Jupyter Notebook
+* MySQL
+* Streamlit
 
-## Connect With Me
+## 📌 Featured Projects
 
-🌐 **Portfolio:** [syed-ziyan.base44.app](https://syed-ziyan.base44.app/)
+### 🤖 AI Recommendation System
 
-💻 **GitHub:** [github.com/SyedZiyan](https://github.com/SyedZiyan)
+A recommendation system that provides personalized suggestions based on user preferences and data.
+
+### 🧠 AI Learning & Competency Platform
+
+An AI-powered learning platform designed to identify competency gaps, recommend personalized learning resources, and generate quizzes and MCQs from uploaded study materials.
+
+### 💬 Personal AI Chat Application
+
+An AI-powered conversational application designed to provide intelligent responses and an interactive user experience.
+
+## 📈 Currently Working On
+
+* Building AI-powered applications
+* Improving my Machine Learning & Deep Learning skills
+* Exploring Generative AI and LLM applications
+* Developing projects for my portfolio
+* Participating in hackathons and technical competitions
+
+## 🤝 Let's Connect
+
+I'm always interested in connecting with developers, AI enthusiasts, students, and professionals to collaborate on interesting projects.
+
+📧 **Email:** Add your email here
+💼 **LinkedIn:** Add your LinkedIn profile here
+🌐 **Portfolio:** Add your portfolio here
 
 ---
 
-*Building with AI, learning every day.*
+⭐ **Thanks for visiting my profile!**
+
+*"Keep learning. Keep building. Keep improving."*
